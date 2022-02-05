@@ -1,4 +1,4 @@
-# Variáveis no Phyton. 
+# Variáveis no Python. 
 
 
 nome= 'João Francisco'
